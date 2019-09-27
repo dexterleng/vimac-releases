@@ -7,4 +7,13 @@
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
 <enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/vimac-0.1.0.app.zip" sparkle:version="1" sparkle:shortVersionString="0.1.0" length="6074650" type="application/octet-stream" sparkle:edSignature="yNPWlZNZ7sPCvI6pXI4qPni97Nlka3vAW5kof95HHxCWjxuwoCvL50hhwuaIu5g4mpeRq9DxcremX/aMQ1XyAA=="/>
 </item>
+<item>
+<title>0.1.1</title>
+<pubDate>Fri, 27 Sep 2019 17:20:41 +0800</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/vimac-0.1.1.app.zip" sparkle:version="2" sparkle:shortVersionString="0.1.1" length="6074759" type="application/octet-stream" sparkle:edSignature="JQEc78xR7uIkEv0rN0Cou81Rb0ye9NDVWXTXFCZyZze1AUw1ovNHWX9DF5aTCQLVmY9G2d5L6OO6WApkukhFAw=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac2-1.delta" sparkle:version="2" sparkle:shortVersionString="0.1.1" sparkle:deltaFrom="1" length="660425" type="application/octet-stream" sparkle:edSignature="KfXHMbyIpFQcUfoMIaym/vGTIXtUmdFdfSkHyoUtVHvgKuKtBDKc8QjAv1EaGBx77tzYZqirwQTE9kFIrvwIDw=="/></sparkle:deltas>
+</item>
+
 </channel></rss>
