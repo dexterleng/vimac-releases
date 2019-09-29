@@ -17,8 +17,7 @@
 </item>
 <item>
 <title>0.1.2</title>
-<description>
-    <![CDATA[
+<description><![CDATA[
       <ul>
         <li>Improve element finding algorithm when dealing with AXPage elements (e.g. PDFs in Preview)</li>
         <li>Show hints for AXPage / AXRows that are partially in the window's frame, instead of only those whose origin (top-left corner) lie in the window's frame.</li>
@@ -32,6 +31,23 @@
 <enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac3-2.delta" sparkle:version="3" sparkle:shortVersionString="0.1.2" sparkle:deltaFrom="2" length="28675" type="application/octet-stream" sparkle:edSignature="8QW1J3X97lCHxvdLR+W/Cu4XX98IziXBjqz20r7m7WJa+/uZZzrKI5AVALj86houc03Kd3cny5UD9ptvjz99DA=="/>
 <enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac3-1.delta" sparkle:version="3" sparkle:shortVersionString="0.1.2" sparkle:deltaFrom="1" length="660145" type="application/octet-stream" sparkle:edSignature="tQoHoeaRKinwxhPMugX51SFJtK76F466dTX3Ul5H/RAPMOwV2q8JTN9pdWinRLiZnhBIwO7q+MJL4wQ2OPF/Bg=="/></sparkle:deltas>
 </item>
+<item>
+<title>0.2</title>
+<description><![CDATA[
+  <ul>
+    <li>Added a scroll command ("s"). Use the HJKL keys after entering the command to scroll. Tip: Use "me" to move your cursor to a scroll area before entering scroll mode! Scroll area selection is WIP.</li>
+  </ul>
+]]>
+</description>
+<pubDate>Sun, 29 Sep 2019 23:00:38 +0800</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/vimac-0.2.app.zip" sparkle:version="4" sparkle:shortVersionString="0.2" length="6083663" type="application/octet-stream" sparkle:edSignature="IM1dAkMG5Oj4IKVyYtj2YOoAY34WD3WJ4+DFUJB2t4Vk/76jWodOqmm9swqOy2lcOwjk501xtnDKzaBvKOQODg=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac4-3.delta" sparkle:version="4" sparkle:shortVersionString="0.2" sparkle:deltaFrom="3" length="56956" type="application/octet-stream" sparkle:edSignature="d6Riwuv8gwhQwvtAJVV/zY8wFz2o1K785sXm7N3c1ZuxF6F0QXweKNd/003sbp0pUK3eZKL5R0IE2yV/+7zGDg=="/>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac4-2.delta" sparkle:version="4" sparkle:shortVersionString="0.2" sparkle:deltaFrom="2" length="58156" type="application/octet-stream" sparkle:edSignature="FkMfSfLQI5Yd5gSnVg37Y1+ZNnWMappElKKI4tuS2qXNMHV9KMIzwroWB2nBtv9mz9xikVfisQ5oZmu6ye1nCQ=="/>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac4-1.delta" sparkle:version="4" sparkle:shortVersionString="0.2" sparkle:deltaFrom="1" length="669605" type="application/octet-stream" sparkle:edSignature="b2qaxDd8xybRCEjUqaLbNxj+Yp03MzBL0O498Ww//kYuCceL4zFr2cdAcCpO1xUYPOuyEgoJAkvT8pRcaalxCw=="/></sparkle:deltas>
+</item>
+
 
 
 </channel></rss>
