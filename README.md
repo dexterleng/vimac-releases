@@ -2,7 +2,7 @@
 
 This repository hosts releases for Vimac.
 
-[Download](https://github.com/dexterleng/vimac-releases/raw/master/vimac-0.1.1.app.zip)
+[Download](https://github.com/dexterleng/vimac-releases/raw/master/vimac-0.1.2.app.zip)
 
 You will need to give Vimac Accessibility permissions in Security & Privacy. When you update Vimac, even though the app is in the permissions list, you have to untick and tick it (or remove and add back) for permissions to be granted.
 

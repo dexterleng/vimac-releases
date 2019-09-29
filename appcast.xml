@@ -15,5 +15,23 @@
 <sparkle:deltas>
 <enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac2-1.delta" sparkle:version="2" sparkle:shortVersionString="0.1.1" sparkle:deltaFrom="1" length="660425" type="application/octet-stream" sparkle:edSignature="KfXHMbyIpFQcUfoMIaym/vGTIXtUmdFdfSkHyoUtVHvgKuKtBDKc8QjAv1EaGBx77tzYZqirwQTE9kFIrvwIDw=="/></sparkle:deltas>
 </item>
+<item>
+<title>0.1.2</title>
+<description>
+    <![CDATA[
+      <ul>
+        <li>Improve element finding algorithm when dealing with AXPage elements (e.g. PDFs in Preview)</li>
+        <li>Show hints for AXPage / AXRows that are partially in the window's frame, instead of only those whose origin (top-left corner) lie in the window's frame.</li>
+      </ul>
+    ]]>
+</description>
+<pubDate>Sun, 29 Sep 2019 13:45:58 +0800</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/vimac-0.1.2.app.zip" sparkle:version="3" sparkle:shortVersionString="0.1.2" length="6074791" type="application/octet-stream" sparkle:edSignature="0OZvfQ40SGDjmZ/EaxI8MP78C+O1btIQN1f/HyLyV55KvAx3NSR11W1e7F182B47bXdzuuZAvXxG956EPaWWBA=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac3-2.delta" sparkle:version="3" sparkle:shortVersionString="0.1.2" sparkle:deltaFrom="2" length="28675" type="application/octet-stream" sparkle:edSignature="8QW1J3X97lCHxvdLR+W/Cu4XX98IziXBjqz20r7m7WJa+/uZZzrKI5AVALj86houc03Kd3cny5UD9ptvjz99DA=="/>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac3-1.delta" sparkle:version="3" sparkle:shortVersionString="0.1.2" sparkle:deltaFrom="1" length="660145" type="application/octet-stream" sparkle:edSignature="tQoHoeaRKinwxhPMugX51SFJtK76F466dTX3Ul5H/RAPMOwV2q8JTN9pdWinRLiZnhBIwO7q+MJL4wQ2OPF/Bg=="/></sparkle:deltas>
+</item>
+
 
 </channel></rss>
