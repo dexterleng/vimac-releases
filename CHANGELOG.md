@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.2.1 (3 Oct 2019)
+
+- Blacklisted some element roles so hints do not show up for them.
+
 ## v0.2 (29 Sep 2019)
 
 - Added a scroll command ("s"). Use the HJKL keys after entering the command to scroll. Tip: Use "me" to move your cursor to a scroll area before entering scroll mode! Scroll area selection is WIP.

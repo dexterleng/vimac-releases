@@ -47,6 +47,24 @@
 <enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac4-2.delta" sparkle:version="4" sparkle:shortVersionString="0.2" sparkle:deltaFrom="2" length="58156" type="application/octet-stream" sparkle:edSignature="FkMfSfLQI5Yd5gSnVg37Y1+ZNnWMappElKKI4tuS2qXNMHV9KMIzwroWB2nBtv9mz9xikVfisQ5oZmu6ye1nCQ=="/>
 <enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac4-1.delta" sparkle:version="4" sparkle:shortVersionString="0.2" sparkle:deltaFrom="1" length="669605" type="application/octet-stream" sparkle:edSignature="b2qaxDd8xybRCEjUqaLbNxj+Yp03MzBL0O498Ww//kYuCceL4zFr2cdAcCpO1xUYPOuyEgoJAkvT8pRcaalxCw=="/></sparkle:deltas>
 </item>
+<item>
+<title>0.2.1</title>
+<description><![CDATA[
+  <ul>
+    <li>Blacklisted some element roles so hints do not show up for them.</li>
+  </ul>
+]]>
+</description>
+<pubDate>Thu, 03 Oct 2019 00:49:42 +0800</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/vimac-0.2.1.app.zip" sparkle:version="5" sparkle:shortVersionString="0.2.1" length="6084113" type="application/octet-stream" sparkle:edSignature="yPmVL9z0V/en6J7GxG7XHti+r6hRnW7GUnJ6pWaxLqnwvCzCoqb7UWCBPxtmO0tjNza+IJHMcvl582+11xlXBg=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac5-4.delta" sparkle:version="5" sparkle:shortVersionString="0.2.1" sparkle:deltaFrom="4" length="31499" type="application/octet-stream" sparkle:edSignature="8Nw8l7n/mZjFwiesdn3ftsFp+wxlScB9ME0vM51P55A5hFlt9i5QtHHCEjvlRi8E72BOFNIlI/jUsD/pypN+Aw=="/>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac5-3.delta" sparkle:version="5" sparkle:shortVersionString="0.2.1" sparkle:deltaFrom="3" length="58958" type="application/octet-stream" sparkle:edSignature="sa0RalTkk7PuKPI992n+I5SE+u7iSd2zD7wxSkaEBH1RwcRaFYihJ5qWltECbNpvbLgxnr8SXKSOoo4uvLBpDg=="/>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac5-2.delta" sparkle:version="5" sparkle:shortVersionString="0.2.1" sparkle:deltaFrom="2" length="59182" type="application/octet-stream" sparkle:edSignature="I5hoWBn91Ylhj0g2B8lWKuGqdtSKZvj0jJ8bDHdqpa+EBpUgwOkYXmF6kyr4u2wAM8zq8eFEspGQKxpW6C20Dw=="/>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac5-1.delta" sparkle:version="5" sparkle:shortVersionString="0.2.1" sparkle:deltaFrom="1" length="670081" type="application/octet-stream" sparkle:edSignature="C7dC24atmrtru/7do9fsrtiinQWDVYQFYKWCUDQkDHCmN0Q/0uP1eKcVkw0+gYH7fhVtUCA0KRiMmZe+YICnAw=="/></sparkle:deltas>
+</item>
+
 
 
 
