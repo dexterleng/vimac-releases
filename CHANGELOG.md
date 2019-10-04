@@ -1,6 +1,13 @@
 # Changelog
 
-## v0.2.1 (3 Oct 2019)
+## v0.2.2 (4 Oct 2019)
+
+- Scroll mode now supports scrolling with D and U keys. They scroll by half the height of the scroll area.
+- Filtering of hints by element role.
+- Hints appear for static text elements again.
+- Hints are bounded by the element's parent scroll area instead of the window.
+
+## v0.2.1 (2 Oct 2019)
 
 - Blacklisted some element roles so hints do not show up for them.
 
