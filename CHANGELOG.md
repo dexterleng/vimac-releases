@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.2.3 (11 Oct 2019)
+
+- Add Scroll Selector Mode (mapped to "s" and "ss") and change Scroll mode's command to "sh" (scroll here)
+- Add Focus Mode (mapped to "f") for focusing on text fields
+- Always show command popup instead of toggling it when the shortcut is activated
+- Fix backspace not bring back deleted hints
+- Add Chromium support (not including Electron)
+- Make traversal asynchronous so the program doesn't freeze
+
 ## v0.2.2 (4 Oct 2019)
 
 - Scroll mode now supports scrolling with D and U keys. They scroll by half the height of the scroll area.
