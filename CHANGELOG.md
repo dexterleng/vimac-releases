@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.3.0 (23 Oct 2019)
+
+- Removed "commands". Use CTRL+SPACE to enter Hint Mode and CTRL+S to enter Scroll Mode.
+- Hold SHIFT while typing hints to right click. Hold CMD while typing to double click.
+- Tab key in Hint Mode cycles between all hints and hints for actionable elements.
+- Added app icon. Thanks @liaujianjie!
+- Removed Focus Mode.
+
 ## v0.2.3 (11 Oct 2019)
 
 - Add Scroll Selector Mode (mapped to "s" and "ss") and change Scroll mode's command to "sh" (scroll here)
