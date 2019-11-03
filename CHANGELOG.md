@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.3.1 (3 Nov 2019)
+
+- Position hints in the center of elements instead of top-left
+- Improved hint-showing performance
+- Allow ESC to quit Scroll mode
+- Remove Chromium support because it breaks window positioning with window managers
+
 ## v0.3.0 (23 Oct 2019)
 
 - Removed "commands". Use CTRL+SPACE to enter Hint Mode and CTRL+S to enter Scroll Mode.
