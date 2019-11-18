@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.3.2 (18 Nov 2019)
+
+- Fix hint positioning when using multiple displays
+- Fix hints appearing with white text
+
 ## v0.3.1 (3 Nov 2019)
 
 - Position hints in the center of elements instead of top-left
