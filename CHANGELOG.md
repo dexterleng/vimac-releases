@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.3.3.1 (24 Nov 2019)
+
+- Reverse D and U keys scroll direction when vertical scroll is reversed. Oops!
+
 ## v0.3.3 (23 Nov 2019)
 
 - Configure vertical and horizontal scroll direction in Preferences.
