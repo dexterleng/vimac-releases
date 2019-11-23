@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.3.3 (23 Nov 2019)
+
+- Configure vertical and horizontal scroll direction in Preferences.
+- Fix right-click not working on some elements.
+
 ## v0.3.2 (18 Nov 2019)
 
 - Fix hint positioning when using multiple displays
