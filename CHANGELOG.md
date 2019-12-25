@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.3.4 (25 Dec 2019)
+
+- Use TAB key to cycle through scroll areas in Scroll mode instead of using hints to select them.
+- Lock cursor in position in Scroll mode.
+
 ## v0.3.3.1 (24 Nov 2019)
 
 - Reverse D and U keys scroll direction when vertical scroll is reversed. Oops!
