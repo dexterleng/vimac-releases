@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.3.5 (3 Jan 2020)
+
+- Bind Shift + HJKL to scroll by half of scroll area vertically / horizontally.
+- Keep hint text consistent when element tree is unchanged.
+
 ## v0.3.4 (25 Dec 2019)
 
 - Use TAB key to cycle through scroll areas in Scroll mode instead of using hints to select them.
