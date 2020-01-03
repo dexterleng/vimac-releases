@@ -234,6 +234,27 @@
 <enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac13-8.delta" sparkle:version="13" sparkle:shortVersionString="0.3.4" sparkle:deltaFrom="8" length="168145" type="application/octet-stream" sparkle:edSignature="iY+m22f78B4cBgAUceFPyx50POCG0X3WiVjgDM8Yq9K/z9CX8xKUE0wKlOK97JbmHzxTcEc3qH5ihAM2xa47Bg=="/>
 <enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac13-7.delta" sparkle:version="13" sparkle:shortVersionString="0.3.4" sparkle:deltaFrom="7" length="295033" type="application/octet-stream" sparkle:edSignature="3xuA8fLgKx7WQl61zZi95wVhvE4s1xJXPy8dkpXYsvJ0aJDHxRoD3qTeeGWGDrKu1T8wqG0OLnXYI6OdNuDOAg=="/></sparkle:deltas>
 </item>
+<item>
+<title>0.3.5</title>
+<description><![CDATA[
+<ul>
+	<li>Bind Shift + HJKL to scroll by half of scroll area vertically / horizontally.</li>
+	<li>Keep hint text consistent when element tree is unchanged.</li>
+</ul>
+]]>
+</description>
+<pubDate>Fri, 03 Jan 2020 23:46:18 +0800</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/vimac-v0.3.5.zip" sparkle:version="14" sparkle:shortVersionString="0.3.5" length="6224505" type="application/octet-stream" sparkle:edSignature="I+7XPjH7zNvZJfiyCfNVXM8ky2McikNlLMdWXpVECM+oVL2sGmaCsOSg7vaWMlSFr+BWbdkte1Pst+8TX/BkAQ=="/>
+<sparkle:deltas>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac14-13.delta" sparkle:version="14" sparkle:shortVersionString="0.3.5" sparkle:deltaFrom="13" length="232320" type="application/octet-stream" sparkle:edSignature="nNVy9viNZtFLngb0KKztTjW7rnA2OeSdOYs5pL5Jl+XfepLS6FazLx2tHiot+hIn+YL+gVYssewSqWbXLJqbCw=="/>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac14-12.delta" sparkle:version="14" sparkle:shortVersionString="0.3.5" sparkle:deltaFrom="12" length="246804" type="application/octet-stream" sparkle:edSignature="IKLEKvYh/GaoSazYnlMxlc3k1y/GA9WWRlpAaOPRs7Y+I4v2Bewf97jAVfgpC9bbhoB+oIqGsffBVQfbol1nBQ=="/>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac14-11.delta" sparkle:version="14" sparkle:shortVersionString="0.3.5" sparkle:deltaFrom="11" length="247839" type="application/octet-stream" sparkle:edSignature="cppxJkFCrno+tZHOIHMVzeB1Wog574jY2o97xl8fAfNl6g9M3dsKDjK967aIAqAtEgbPkbr7XntszinKWEOuCw=="/>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac14-10.delta" sparkle:version="14" sparkle:shortVersionString="0.3.5" sparkle:deltaFrom="10" length="253622" type="application/octet-stream" sparkle:edSignature="/Pmv53pKG9N9ytFy0OcVdzirHepBAIAeeeASBhmcl8d1FOxZYrDioilXH/wBZN4VrFdd6dAtGirjGcMWrupLDg=="/>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac14-9.delta" sparkle:version="14" sparkle:shortVersionString="0.3.5" sparkle:deltaFrom="9" length="255721" type="application/octet-stream" sparkle:edSignature="8feipdNQV+tJECF+oY/OgRiqSTwtukpcWSR8X+WLFPfEbFB16a7SB/OAe92oY/4Shs/pqKuOd73LKkeshTdLBw=="/>
+<enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac14-8.delta" sparkle:version="14" sparkle:shortVersionString="0.3.5" sparkle:deltaFrom="8" length="268914" type="application/octet-stream" sparkle:edSignature="WpW/ns7cioRomaglHIPMdPEXgvMIt6ccneLzv5NJqm6A66gGNrXsmpKt6E1wcXh0n5f3/vMWq0obGaw3onglBA=="/></sparkle:deltas>
+</item>
+
 
 
 
