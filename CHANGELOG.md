@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.3.6 (27 Jan 2020)
+
+- Show hints only for actionable elements.
+- Show prompt for granting Accessibility permission.
+- Allow shortcut to exit hint/scroll mode.
+- Add menu bar icon.
+
 ## v0.3.5 (3 Jan 2020)
 
 - Bind Shift + HJKL to scroll by half of scroll area vertically / horizontally.
