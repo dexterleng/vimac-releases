@@ -5,7 +5,7 @@
 - Hide and center cursor position in scroll-area in Scroll-mode
 - Revert cursor position upon existing Scroll-mode
 - Show hints for extra menu-bar items
-- (Experimental) Add optional to force keyboard layout
+- (Experimental) Add option to force keyboard layout
 - Add option to launch on startup
 
 ## v0.3.6 (27 Jan 2020)

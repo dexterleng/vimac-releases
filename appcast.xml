@@ -283,7 +283,7 @@
 	<li>Hide and center cursor position in scroll-area in Scroll-mode</li>
 	<li>Revert cursor position upon existing Scroll-mode</li>
 	<li>Show hints for extra menu-bar items</li>
-	<li>(Experimental) Add optional to force keyboard layout</li>
+	<li>(Experimental) Add option to force keyboard layout</li>
 	<li>Add option to launch on startup</li>
 </ul>
 ]]>
