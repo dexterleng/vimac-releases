@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.3.8 (21 March 2020)
+
+- Show hints for Notification Center alerts
+- Show hints for row elements without actions
+
 ## v0.3.7 (7 March 2020)
 
 - Hide and center cursor position in scroll-area in Scroll-mode
