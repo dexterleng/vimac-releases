@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.3.9 (11 April 2020)
+
+- Customize hint text
+- Hint background is now a brighter yellow for higher contrast
+
 ## v0.3.8 (21 March 2020)
 
 - Show hints for Notification Center alerts
