@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.3.10 (21 Jun 2020)
+
+- Prettify Preferences
+- Customize hint text size
+- Customize scroll keys
+- Fix blurry hint text
+- Generic scroll window for apps without scroll views
+
 ## v0.3.9 (11 April 2020)
 
 - Customize hint text
