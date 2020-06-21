@@ -340,24 +340,19 @@
 <enclosure url="https://raw.githubusercontent.com/dexterleng/vimac-releases/master/Vimac18-12.delta" sparkle:version="18" sparkle:shortVersionString="0.3.9" sparkle:deltaFrom="12" length="3282372" type="application/octet-stream" sparkle:edSignature="rCH/e/dqNoul9YpCYp37a/rpBI/lQnpe8J9DExLsJuQlcGcOWzIB5m0ijrUjhZ03iWPnkCOC18k6/W4FxYFzDw=="/></sparkle:deltas>
 </item>
 <item>
-    <title>Version 0.3.10 (19)</title>
-    <description><div style='font-size: 110%; font-family: Helvetica, Arial, sans-serif;'><ul> <li>Prettify Preferences</li> <li>Customize hint text size</li> <li>Customize scroll keys</li> <li>Fix blurry hint text</li> <li>Generic scroll window for apps without scroll views</li> </ul> </div></description>
-    <pubDate>Sun, 21 Jun 2020 11:07:45 GMT</pubDate>
-    <enclosure sparkle:version="19" sparkle:shortVersionString="0.3.10" sparkle:edSignature="Qy3Vu4lkzGDCfbRu3w8YyNSRYJh+NiVKgn59jFinDxEqV0lNmUgCwchdAX1/riYhI/FaoJOtbJDpy4M/2ewhDQ==" url="https://appcenter-filemanagement-distrib3ede6f06e.azureedge.net/2a4f655b-45e8-4ecd-8072-d57a6ff7859a/Vimac_distribution.zip?sv=2019-02-02&sr=c&sig=Qp9C1shnkItceye6z67w3hOFPYNtHIVqtW8t2Qjz%2FtY%3D&se=2020-06-22T11%3A08%3A09Z&sp=r" length="13039799" type="application/octet-stream"/>
-    <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+  <title>Version 0.3.10 (19)</title>
+  <description>&lt;div style=&apos;font-size: 110%; font-family: Helvetica, Arial, sans-serif;&apos;&gt;&lt;ul&gt;
+&lt;li&gt;Prettify Preferences&lt;/li&gt;
+&lt;li&gt;Customize hint text size&lt;/li&gt;
+&lt;li&gt;Customize scroll keys&lt;/li&gt;
+&lt;li&gt;Fix blurry hint text&lt;/li&gt;
+&lt;li&gt;Generic scroll window for apps without scroll views&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+  <pubDate>Sun, 21 Jun 2020 11:07:45 GMT</pubDate>
+  <enclosure sparkle:version="19" sparkle:shortVersionString="0.3.10" sparkle:edSignature="Qy3Vu4lkzGDCfbRu3w8YyNSRYJh+NiVKgn59jFinDxEqV0lNmUgCwchdAX1/riYhI/FaoJOtbJDpy4M/2ewhDQ==" url="https://appcenter-filemanagement-distrib3ede6f06e.azureedge.net/2a4f655b-45e8-4ecd-8072-d57a6ff7859a/Vimac_distribution.zip?sv=2019-02-02&amp;sr=c&amp;sig=Qp9C1shnkItceye6z67w3hOFPYNtHIVqtW8t2Qjz%2FtY%3D&amp;se=2020-06-22T11%3A08%3A09Z&amp;sp=r" length="13039799" type="application/octet-stream"></enclosure>
+  <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
 </item>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
